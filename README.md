@@ -3,7 +3,7 @@
 <h3 align="center">Backend Developer • AI/ML Enthusiast • System Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Engineer;AI+%26+ML+Builder;API+%26+System+Design;Building+Real-World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Backend+Engineer;AI+%26+ML+Builder;API+%26+System+Design;Building+Real-World+Projects" />
 </p>
 
 <p align="center">
