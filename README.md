@@ -11,7 +11,7 @@
   <a href="https://github.com/Star90lord">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://code2cash.in">
+  <a href="https://altamashresume.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
   <a href="mailto:altamashmalik369@gmail.com">
