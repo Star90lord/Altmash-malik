@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Altamash+Malik;Backend+Developer;AI+%26+ML+Enthusiast;System+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+I'm+Altamash+Malik;Backend+Developer;AI+%26+ML+Enthusiast;System+Builder" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 Backend Developer · AI/ML Integrator · System Architect</h3>
@@ -11,7 +11,7 @@
   <a href="https://github.com/Star90lord">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://code2cash.in">
+  <a href="https://altamashresume.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
   <a href="mailto:altamashmalik369@gmail.com">
@@ -21,20 +21,20 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 > *Results-driven developer with 1+ year of hands-on experience building responsive and scalable web applications. I don't just write code — I build systems that work in real-world conditions.*
 
-- 🎓 **B.Tech CSE** @ Sharda University, Greater Noida *(2024 – Present)*
-- 💡 Passionate about **Backend Engineering + AI/ML Integration**
-- ⚙️ Building **scalable APIs, intelligent systems & full-stack applications**
-- 🌱 Currently mastering **Data Structures & Algorithms** and **System Design**
-- 🤝 Open to **full-time, part-time & internship** opportunities in Backend Development
-- 📍 India
+-  **B.Tech CSE** @ Sharda University, Greater Noida *(2024 – Present)*
+-  Passionate about **Backend Engineering + AI/ML Integration**
+-  Building **scalable APIs, intelligent systems & full-stack applications**
+-  Currently mastering **Data Structures & Algorithms** and **System Design**
+-  Open to **full-time, part-time & internship** opportunities in Backend Development
+-  India
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <table>
   <tr>
@@ -68,7 +68,6 @@
     <td>
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -85,9 +84,9 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🔷 [Abhinandan Events Management System](https://github.com/Star90lord)
+###  [Abhinandan Events Management System](https://github.com/Star90lord)
 > *React.js · Node.js · Express.js · JWT · REST APIs · MongoDB*
 
 A full-stack event management platform with secure authentication and role-based access control.
@@ -100,7 +99,7 @@ A full-stack event management platform with secure authentication and role-based
 
 ---
 
-### 🔷 [Smart Attendance & Expense Prediction System](https://github.com/Star90lord)
+###  [Smart Attendance & Expense Prediction System](https://github.com/Star90lord)
 > *Python · OpenCV · Machine Learning · SQLite*
 
 An intelligent attendance system powered by computer vision, extended with ML-based expense forecasting.
@@ -114,7 +113,7 @@ An intelligent attendance system powered by computer vision, extended with ML-ba
 
 ---
 
-### 🔷 [Zaafree Frontend Application](https://github.com/Star90lord)
+###  [Zaafree Frontend Application](https://github.com/Star90lord)
 > *React.js · JavaScript · REST API Integration*
 
 A responsive and dynamic frontend application built for seamless user interaction.
@@ -126,7 +125,7 @@ A responsive and dynamic frontend application built for seamless user interactio
 
 ---
 
-### 🔷 [Task Management API](https://github.com/Star90lord)
+###  [Task Management API](https://github.com/Star90lord)
 > *Node.js · Express.js · MongoDB*
 
 An advanced task management backend with intelligent scheduling and prioritization features.
@@ -137,7 +136,7 @@ An advanced task management backend with intelligent scheduling and prioritizati
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Star90lord&show_icons=true&theme=tokyonight&count_private=true" />
@@ -153,15 +152,15 @@ An advanced task management backend with intelligent scheduling and prioritizati
 ## 📈 Current Focus
 
 ```text
-🔸 Data Structures & Algorithms    ████████████░░░░   In Progress
-🔸 System Design                   ██████░░░░░░░░░░   Learning
-🔸 AI/ML Integration               █████████░░░░░░░   Building
-🔸 Production-Ready Backend        ████████████████   Active
+🔸 Data Structures & Algorithms       In Progress
+🔸 System Design                      Learning
+🔸 AI/ML Integration                 Building
+🔸 Production-Ready Backend          Active
 ```
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <p align="center">
   I'm always open to interesting conversations, collaborations, and opportunities.
@@ -176,9 +175,6 @@ An advanced task management backend with intelligent scheduling and prioritizati
     <img src="https://img.shields.io/badge/Email-altamashmalik369@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
   &nbsp;
-  <a href="https://code2cash.in">
-    <img src="https://img.shields.io/badge/Website-code2cash.in-green?style=for-the-badge&logo=google-chrome" />
-  </a>
 </p>
 
 ---
