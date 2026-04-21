@@ -28,7 +28,7 @@
 ##  Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,nodejs,express,mongodb,mysql,git,github,postman,opencv" />
+  <img src="https://skillicons.dev/icons?i=js,python,nodejs,express,mongodb,postgresql,git,github,postman,opencv" />
 </p>
 
 ---
