@@ -11,7 +11,7 @@
   <a href="https://github.com/Star90lord">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://altamashresume.netlify.app/">
+  <a href="https://code2cash.in">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
   <a href="mailto:altamashmalik369@gmail.com">
@@ -25,16 +25,16 @@
 
 > *Results-driven developer with 1+ year of hands-on experience building responsive and scalable web applications. I don't just write code — I build systems that work in real-world conditions.*
 
--  **B.Tech CSE** @ Sharda University, Greater Noida *(2024 – Present)*
--  Passionate about **Backend Engineering + AI/ML Integration**
--  Building **scalable APIs, intelligent systems & full-stack applications**
--  Currently mastering **Data Structures & Algorithms** and **System Design**
--  Open to **full-time, part-time & internship** opportunities in Backend Development
--  India
+- 🎓 **B.Tech CSE** @ Sharda University, Greater Noida *(2024 – Present)*
+- 💡 Passionate about **Backend Engineering + AI/ML Integration**
+- ⚙️ Building **scalable APIs, intelligent systems & full-stack applications**
+- 🌱 Currently mastering **Data Structures & Algorithms** and **System Design**
+- 🤝 Open to **full-time, part-time & internship** opportunities in Backend Development
+- 📍 India
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 <table>
   <tr>
@@ -85,7 +85,7 @@
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 ### 🔷 [Abhinandan Events Management System](https://github.com/Star90lord)
 > *React.js · Node.js · Express.js · JWT · REST APIs · MongoDB*
@@ -137,10 +137,10 @@ An advanced task management backend with intelligent scheduling and prioritizati
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Star90lord&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Star90lord&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Star90lord&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
@@ -150,18 +150,18 @@ An advanced task management backend with intelligent scheduling and prioritizati
 
 ---
 
-##  Current Focus
+## 📈 Current Focus
 
 ```text
-🔸 Data Structures & Algorithms     In Progress
-🔸 System Design                     Learning
-🔸 AI/ML Integration                 Building
-🔸 Production-Ready Backend          Active
+🔸 Data Structures & Algorithms    ████████████░░░░   In Progress
+🔸 System Design                   ██████░░░░░░░░░░   Learning
+🔸 AI/ML Integration               █████████░░░░░░░   Building
+🔸 Production-Ready Backend        ████████████████   Active
 ```
 
 ---
 
-##  Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
   I'm always open to interesting conversations, collaborations, and opportunities.
